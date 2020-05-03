@@ -1,5 +1,7 @@
-/*Escrever na tela com o NODEJS:
+/*Escrever na tela com o Node.Js:
 console.log('O console funcionou corretamente')
+  Executar o Node.js no terminal:
+F8
 */
 
 var vel = 60.1
